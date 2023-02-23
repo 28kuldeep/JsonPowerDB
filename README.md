@@ -6,7 +6,11 @@
   
 ### Benefits of using JsonPowerDB: "Benifits of using JsonPowerDB is descripted below"
   Simple to use , real time database.
+  
+  
 Simplest way to retrieve data in a JSON format.
+
+
 Backends code is not required for database
 No need for defining schema
 Querying the database is easy there is no need of knowledge of SQL command
