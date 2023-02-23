@@ -5,17 +5,11 @@
 ----
   
 ### Benefits of using JsonPowerDB: "Benifits of using JsonPowerDB is descripted below"
-   .Simple to use &nbsp;
-   .Real time &nbsp;
-   .Raw data is human readable &nbsp;
-   .Schema Free &nbsp;
-   .Low developement cost due to Webservices API and faster coding &nbsp;
-   .Single Instance &nbsp;
-   .Multiple Security layers &nbsp;
-   .Server side native NoSQL &nbsp;
-   .Fast Developement &nbsp;
-   .PowerIndex &nbsp;
-   .Using JsonPowerDB is equally Easy and Fast when used with Server Side programming like Java, .NET, Python or PHP etc&nbsp;
+  Simple to use , real time database
+Simplest way to retrieve data in a JSON format.
+Backends code is not required for database
+No need for defining schema
+Querying the database is easy there is no need of knowledge of SQL command
   &nbsp;&nbsp;
   ------
  ### Release History
