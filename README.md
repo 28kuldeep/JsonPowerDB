@@ -1,8 +1,7 @@
 # assignment
 ---------------------
 
-This is a web based html form for student enrollment using JsonPowerDB as Database JsonPowerDB is used to perform CURD operation
-
+### "This is a web based html form for student enrollment using JsonPowerDB as Database JsonPowerDB is used to perform CURD operation"
 ----
   
 ### Benefits of using JsonPowerDB: "Benifits of using JsonPowerDB is descripted below"
