@@ -1,8 +1,7 @@
 # assignment
 ---------------------
 
-"It's a validation form based on JsonPowerDB in which you can add some employee details to keep record of them"
-  ### A simple **HTML Web Application** made with **JavaScipt** and **JsonPowerDB** for **Employee Management System**.
+This is a web based html form for student enrollment using JsonPowerDB as Database JsonPowerDB is used to perform CURD operation
 
 ----
   
@@ -21,7 +20,7 @@
   
   ------
  ### Release History
- (24/04/2022 8:35pm)
+ (23/02/2023 8:35pm)
 
 ---
 &nbsp;&nbsp;
@@ -30,23 +29,6 @@
 
 -----
    
-  ### Instructions
-  _____________________
-#### Requirements
-  * Web Browser
-  * Database Connection Token
-  
-#### Execution
-* open `employee.html` to open the Index page
-
-#### Website
-* To go on any page
-  * click on the link
-* To come back on index page
-  * click <- arrow on Browser
-
-#### Scope of functionalities
-* It is a very basic project for demonstration of JsonPowerDb with help of a web application for Employee management. 
 
 
                                        
